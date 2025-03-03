@@ -1,2 +1,2 @@
 # html-portfolio
-A course for coding with Udemy 
+A course for coding with Udemy by George 
